@@ -1,4 +1,4 @@
-#🛍️ Store Data Dashboard
+# 🛍️ Store Data Dashboard
 
 ## Introduction
 

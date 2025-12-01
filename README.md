@@ -57,7 +57,10 @@ Identify which categories and sizes drive the highest revenue.
 
 ## Dashboard Overview
 
-The dashboard contains:
+The dashboard contains: 
+<img width="1303" height="808" alt="image" src="https://github.com/user-attachments/assets/eaf2002e-8f68-4ae6-b689-ffd0ec71b3c9" />
+
+
 
 ## 🔎 Interactive Filters
 

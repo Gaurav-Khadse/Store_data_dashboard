@@ -189,5 +189,5 @@ The Store Data Dashboard provides a powerful 360° view of customer behavior and
 - Tailor offers based on seasonal and discount-driven trends
 
 Final Insight
-“To maximize revenue, focus on expanding Clothing and Accessories categories, cater strongly to the Adult age segment, optimize stock for Medium/Large sizes, and leverage subscription-based marketing. Female customers and seasonal peaks—especially Fall and Summer—present high-value opportunities for targeted campaigns.”
+“To maximize revenue, focus on expanding Clothing and Accessories categories, cater strongly to the Adult age segment, optimize stock for Medium/Large sizes, and leverage subscription based marketing. Female customers and seasonal peaks especially Fall and Summer present high-value opportunities for targeted campaigns.”
 

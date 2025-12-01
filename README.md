@@ -49,11 +49,11 @@ Identify which categories and sizes drive the highest revenue.
 
 ✔ KPI Highlights
 
-Total Purchase Amount
+ -Total Purchase Amount
 
-Previous Purchase Amount
+- Previous Purchase Amount
 
-Review Rating Score
+- Review Rating Score
 
 Dashboard Overview
 

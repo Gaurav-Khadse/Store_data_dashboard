@@ -11,33 +11,33 @@ From identifying high-performing categories to understanding which age groups sp
 
 This Power BI project focuses on extracting meaningful insights from retail purchase data. The major objectives include:
 
--- ✔ Total Purchase Amount & Previous Purchase Trends
+- ✔ Total Purchase Amount & Previous Purchase Trends
 
 Track overall current and previous spending by customers.
 
--- ✔ Purchasing Behavior Across Segments
+- ✔ Purchasing Behavior Across Segments
 
 Analyze purchase distribution by:
 
---Age Group
+- Age Group
 
---Category
+- Category
 
---Frequency of Purchases
+- Frequency of Purchases
 
---Discount Application
+- Discount Application
 
---Payment Method
+- Payment Method
 
---Shipping Type
+- Shipping Type
 
---Season
+- Season
 
---Gender
+- Gender
 
---Item Types
+- Item Types
 
---Colors
+- Colors
 
 ✔ Customer Subscription Insights
 

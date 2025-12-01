@@ -118,9 +118,9 @@ Dataset: Store Transactional Data (Purchases, Customer Demographics, Product Att
 
 - 🧑‍🤝‍🧑 Age Group Spending
 
-Adults contribute the highest purchase volume (57K)
+-- Adults contribute the highest purchase volume (57K)
 
-Teens and seniors follow with nearly equal purchase totals
+-- Teens and seniors follow with nearly equal purchase totals
 
 - 🛍️ Category Performance
 

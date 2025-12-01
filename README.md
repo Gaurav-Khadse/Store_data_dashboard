@@ -120,75 +120,74 @@ Dataset: Store Transactional Data (Purchases, Customer Demographics, Product Att
 
   - Adults contribute the highest purchase volume (57K)
 
--- Teens and seniors follow with nearly equal purchase totals
+   -Teens and seniors follow with nearly equal purchase totals
 
 - 🛍️ Category Performance
 
-Clothing leads at 104K
+  - Clothing leads at 104K
 
-Accessories follow at 74K
+  - Accessories follow at 74K
 
-Footwear and Outerwear contribute moderately
+  - Footwear and Outerwear contribute moderately
 
 - 🔁 Purchase Frequency
 
-"Every 3 Months" and "Annual" buyers show the highest purchase totals
+  - "Every 3 Months" and "Annual" buyers show the highest purchase totals
 
-Weekly buyers show comparatively lower purchases
+  - Weekly buyers show comparatively lower purchases
 
 - 💳 Payment Method Breakdown
 
-Payments distributed almost evenly among Cash, Bank Transfer, Credit/Debit Cards
+  - Payments distributed almost evenly among Cash, Bank Transfer, Credit/Debit Cards
 
-PayPal shows moderate use
+  - PayPal shows moderate use
 
 - 🎨 Color Preferences
 
-Top colors by purchase amount:
+  - Top colors by purchase amount:
 
-Green (11.1K)
+  - Green (11.1K)
 
-Teal, Yellow, Olive, and Cyan follow closely
+  - Teal, Yellow, Olive, and Cyan follow closely
 
 - 👕 Item-Level Spend
 
-Blouse, shirt, dress, pants, and jewelry each hold around 9K–10K in distributed purchases.
+  - Blouse, shirt, dress, pants, and jewelry each hold around 9K–10K in distributed purchases.
 
 - 🧾 Subscription Status
 
-2.8K non-subscribers vs 1.1K subscribers
+  - 2.8K non-subscribers vs 1.1K subscribers
 
 - 🚚 Shipping Type Analysis
 
-Store Pickup and Free Shipping perform particularly well among adults
+  - Store Pickup and Free Shipping perform particularly well among adults
 
 - 📦 Size & Category Trends
 
-Medium and Large sizes show strong revenue contributions across categories
+  - Medium and Large sizes show strong revenue contributions across categories
 
-Clothing dominates in every size bracket
+  - Clothing dominates in every size bracket
 
 - 🚻 Gender Spending
 
-Female customers lead with 158K
+  - Female customers lead with 158K
 
-Male customers follow with 75K
+  - Male customers follow with 75K
 
 ## Conclusion
 
 The Store Data Dashboard provides a powerful 360° view of customer behavior and product performance. It simplifies complex retail patterns into intuitive insights that can help businesses:
 
-Strengthen category-specific strategies
+- Strengthen category-specific strategies
 
-Optimize inventory for top-selling sizes and colors
+- Optimize inventory for top-selling sizes and colors
 
-Enhance marketing focus on top-performing age groups
+- Enhance marketing focus on top-performing age groups
 
-Improve customer retention through subscription insights
+- Improve customer retention through subscription insights
 
-Tailor offers based on seasonal and discount-driven trends
+- Tailor offers based on seasonal and discount-driven trends
 
 Final Insight
-
 “To maximize revenue, focus on expanding Clothing and Accessories categories, cater strongly to the Adult age segment, optimize stock for Medium/Large sizes, and leverage subscription-based marketing. Female customers and seasonal peaks—especially Fall and Summer—present high-value opportunities for targeted campaigns.”
 

@@ -49,76 +49,77 @@ Identify which categories and sizes drive the highest revenue.
 
 ✔ KPI Highlights
 
- -Total Purchase Amount
+ Total Purchase Amount
 
 - Previous Purchase Amount
 
 - Review Rating Score
 
-Dashboard Overview
+## Dashboard Overview
 
 The dashboard contains:
 
-🔎 Interactive Filters
+## 🔎 Interactive Filters
 
 Category Slicer for dynamic report adjustments
 
 📊 Visualizations Included
 
-Bar charts for category-wise, color-wise, size-wise, and season-wise purchases
+- Bar charts for category-wise, color-wise, size-wise, and season-wise purchases
 
-KPIs summarizing total purchases and reviews
+- KPIs summarizing total purchases and reviews
 
-Pie charts for payment methods
+- Pie charts for payment methods
 
-Donut charts for item-level breakdowns
+- Donut charts for item-level breakdowns
 
-Clustered bars displaying discount vs. non-discount purchases
+- Clustered bars displaying discount vs. non-discount purchases
 
-Age group & gender purchase comparisons
+- Age group & gender purchase comparisons
 
-Subscription status counts
+- Subscription status counts
 
-Shipping type breakdown by age group
+- Shipping type breakdown by age group
 
-📁 Key Insights Delivered
+## 📁 Key Insights Delivered
 
-Understanding how customer segments impact spending
+- Understanding how customer segments impact spending
 
-Identifying which colors, sizes, and items are most popular
+- Identifying which colors, sizes, and items are most popular
 
-Seasonal trends across product categories
+- Seasonal trends across product categories
 
-Revenue analysis with and without discounts
+- Revenue analysis with and without discounts
 
-Visualization Tools
+## Visualization Tools
 
 Tool Used: Power BI
 
 Dataset: Store Transactional Data (Purchases, Customer Demographics, Product Attributes)
 
-Visuals Used:
+## Visuals Used:
 
-KPI Cards
+- KPI Cards
 
-Clustered Bar Charts
+- Clustered Bar Charts
 
-Donut & Pie Charts
+- Donut & Pie Charts
 
-Slicers
+- Slicers
 
-Category-wise Comparisons
+- Category-wise Comparisons
 
-Custom Theme & Background
+- Custom Theme & Background
 
-Insights Derived from the Dashboard 🔍
-🧑‍🤝‍🧑 Age Group Spending
+## Insights Derived from the Dashboard 🔍
+
+- 🧑‍🤝‍🧑 Age Group Spending
 
 Adults contribute the highest purchase volume (57K)
 
 Teens and seniors follow with nearly equal purchase totals
 
-🛍️ Category Performance
+- 🛍️ Category Performance
 
 Clothing leads at 104K
 
@@ -126,19 +127,19 @@ Accessories follow at 74K
 
 Footwear and Outerwear contribute moderately
 
-🔁 Purchase Frequency
+- 🔁 Purchase Frequency
 
 "Every 3 Months" and "Annual" buyers show the highest purchase totals
 
 Weekly buyers show comparatively lower purchases
 
-💳 Payment Method Breakdown
+- 💳 Payment Method Breakdown
 
 Payments distributed almost evenly among Cash, Bank Transfer, Credit/Debit Cards
 
 PayPal shows moderate use
 
-🎨 Color Preferences
+- 🎨 Color Preferences
 
 Top colors by purchase amount:
 
@@ -146,31 +147,31 @@ Green (11.1K)
 
 Teal, Yellow, Olive, and Cyan follow closely
 
-👕 Item-Level Spend
+- 👕 Item-Level Spend
 
 Blouse, shirt, dress, pants, and jewelry each hold around 9K–10K in distributed purchases.
 
-🧾 Subscription Status
+- 🧾 Subscription Status
 
 2.8K non-subscribers vs 1.1K subscribers
 
-🚚 Shipping Type Analysis
+- 🚚 Shipping Type Analysis
 
 Store Pickup and Free Shipping perform particularly well among adults
 
-📦 Size & Category Trends
+- 📦 Size & Category Trends
 
 Medium and Large sizes show strong revenue contributions across categories
 
 Clothing dominates in every size bracket
 
-🚻 Gender Spending
+- 🚻 Gender Spending
 
 Female customers lead with 158K
 
 Male customers follow with 75K
 
-Conclusion
+## Conclusion
 
 The Store Data Dashboard provides a powerful 360° view of customer behavior and product performance. It simplifies complex retail patterns into intuitive insights that can help businesses:
 
